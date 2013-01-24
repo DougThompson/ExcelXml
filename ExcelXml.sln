@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelXmlTestHarness", "ExcelXmlTestHarness\ExcelXmlTestHarness.csproj", "{00860407-9E4D-4BE8-90EE-10688FBD816C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelXml", "ExcelXml\ExcelXml.csproj", "{3EB053DD-A5D3-4ACE-9989-AF572912706B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00860407-9E4D-4BE8-90EE-10688FBD816C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00860407-9E4D-4BE8-90EE-10688FBD816C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00860407-9E4D-4BE8-90EE-10688FBD816C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00860407-9E4D-4BE8-90EE-10688FBD816C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EB053DD-A5D3-4ACE-9989-AF572912706B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EB053DD-A5D3-4ACE-9989-AF572912706B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EB053DD-A5D3-4ACE-9989-AF572912706B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EB053DD-A5D3-4ACE-9989-AF572912706B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
